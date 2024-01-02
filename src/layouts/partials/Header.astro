@@ -3,7 +3,6 @@ import Logo from "@/components/Logo.astro";
 import ThemeSwitcher from "@/components/ThemeSwitcher.astro";
 import config from "@/config/config.json";
 import menu from "@/config/menu.json";
-import { IoSearch } from "react-icons/io5/index.js";
 
 export interface ChildNavigationLink {
   name: string;
@@ -18,15 +17,16 @@ export interface NavigationLink {
 }
 
 const { main }: { main: NavigationLink[] } = menu;
-const { navigation_button, settings } = config;
+const { navigation_button, settings, site } = config;
 const { pathname } = Astro.url;
 ---
 
 <header class={`header z-30 ${settings.sticky_header && "sticky top-0"}`}>
   <nav class="navbar container">
     <!-- logo -->
-    <div class="order-0">
+    <div class="order-0 flex items-center">
       <Logo />
+      <h4>{site.logo_text}</h4>
     </div>
     <!-- navbar toggler -->
     <input id="nav-toggle" type="checkbox" class="hidden" />
@@ -117,17 +117,7 @@ const { pathname } = Astro.url;
       }
     </ul>
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
-      {
-        settings.search && (
-          <button
-            class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
-            aria-label="search"
-            data-search-trigger
-          >
-            <IoSearch />
-          </button>
-        )
-      }
+
       <ThemeSwitcher className="mr-5" />
       {
         navigation_button.enable && (

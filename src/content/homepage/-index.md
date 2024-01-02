@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
-  image: "/images/banner.png"
+  title: "Welcome to Ben McCormack's In-Home Physical Therapy"
+  content: "Are you ready to embark on a journey to better health and well-being? Look no further than Ben McCormack's In Home Physical Therapy! Our mission is to bring expert physical therapy services right to your doorstep, providing personalized care in the comfort of your own home."
+  image: "/images/banner.jpg"
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    link: "/contact"
 
 # Features
 features:
