@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "Let's Achieve Your Fitness Goals Together. Message Me Today!"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Whether you're recovering from an injury, striving for athletic excellence, or pursuing overall fitness, I am committed to guiding you towards success. Let's start this journey together – message me today to discuss your goals and pricing! 🌟"
 button:
   enable: true
   label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  link: "/contact"
 ---

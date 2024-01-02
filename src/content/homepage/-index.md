@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to Ben McCormack's In-Home Physical Therapy"
-  content: "Are you ready to embark on a journey to better health and well-being? Look no further than Ben McCormack's In Home Physical Therapy! Our mission is to bring expert physical therapy services right to your doorstep, providing personalized care in the comfort of your own home."
+  title: "Unlock Your Potential with Ben McCormack, Certified Personal Trainer"
+  content: "Embark on a transformative journey to a healthier and stronger you! 🏋️‍♂️ With a Bachelor's degree in Exercise Science and 8 years of experience working with chiropractic patients, I am thrilled to bring my expertise to the Wheeling area. As a Certified Personal Trainer I specialize in personalized training services and exercise classes, and now I'm ready to serve you in a location of your choice, even your own home!"
   image: "/images/banner.jpg"
   button:
     enable: true
@@ -11,41 +11,43 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Injury Rehabilitation & Prevention"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Unlock the Path to Recovery and Strength"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Tailored Programs: Customized workout plans designed for injury rehabilitation and prevention."
+      - "Chiropractic Insight: Leverage my 8 years of experience working with chiropractic patients for a holistic approach."
+      - "Neurological Considerations: Programs adapted to address pre-existing neurological limitations for a safe and effective fitness journey."
+      - "Focus on Strengthening: Specialized exercises to build strength and resilience, promoting overall well-being."
+      - "Flexible Locations: Enjoy the convenience of training in a location of your choice, making fitness accessible."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Specialized Training for Athletes"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Ignite Your Athletic Potential"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Passion for Sports: Benefit from a trainer with a genuine passion for sports, enhancing your athletic performance."
+      - "All Ages Welcome: Experience working with individuals of all ages, from adolescents to the elderly."
+      - "Sport-Specific Training: Tailor-made programs to meet the unique needs of athletes, focusing on sport-specific training."
+      - "Inclusive Approach: Inclusive training environment, welcoming men and women of diverse backgrounds and fitness levels."
+      - "Goal-Oriented Workouts: Set and achieve athletic goals with structured and goal-oriented workout sessions."
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Comprehensive Fitness Services"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Elevate Your Fitness Journey with Personalized Services"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Balance Improvement: Targeted exercises to enhance balance and stability for better functional movement."
+      - "Muscle Building: Structured programs for muscle development, catering to individuals with various fitness objectives."
+      - "Weight Loss Support: Personalized weight loss programs designed to meet your individual goals."
+      - "Individualized Approach: Every program is uniquely crafted, considering your specific needs and preferences."
+      - "Transparent Pricing: Clear and reasonable pricing options to suit your budget and fitness aspirations."
     button:
       enable: false
       label: ""
