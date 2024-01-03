@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Injury Rehabilitation & Prevention"
-    image: "/images/service-1.png"
+    image: "/images/feat1.jpg"
     content: "Unlock the Path to Recovery and Strength"
     bulletpoints:
       - "Tailored Programs: Customized workout plans designed for injury rehabilitation and prevention."
@@ -26,7 +26,7 @@ features:
       link: "#"
 
   - title: "Specialized Training for Athletes"
-    image: "/images/service-2.png"
+    image: "/images/feat2.jpg"
     content: "Ignite Your Athletic Potential"
     bulletpoints:
       - "Passion for Sports: Benefit from a trainer with a genuine passion for sports, enhancing your athletic performance."
@@ -40,7 +40,7 @@ features:
       link: "/contact"
 
   - title: "Comprehensive Fitness Services"
-    image: "/images/service-3.png"
+    image: "/images/feat3.jpg"
     content: "Elevate Your Fitness Journey with Personalized Services"
     bulletpoints:
       - "Balance Improvement: Targeted exercises to enhance balance and stability for better functional movement."
