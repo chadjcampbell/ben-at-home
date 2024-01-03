@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Get Started Now"
     link: "/contact"
 
 # Features
