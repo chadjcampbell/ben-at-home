@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "McCormack's In-Home PT",
-    "base_url": "https://astroplate.netlify.app",
+    "base_url": "https://benmpt.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
@@ -13,7 +13,7 @@
   },
 
   "settings": {
-    "search": true,
+    "search": false,
     "sticky_header": true,
     "theme_switcher": true,
     "default_theme": "system",
